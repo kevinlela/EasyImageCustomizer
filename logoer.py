@@ -1,0 +1,1 @@
+def addlogo(img, logo)

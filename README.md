@@ -1,1 +1,1 @@
-# EasyImageCustomizer
+sudo pip install -U scikit-image --ignore-installed --user
